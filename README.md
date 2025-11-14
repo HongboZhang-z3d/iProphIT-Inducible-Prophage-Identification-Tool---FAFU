@@ -8,7 +8,7 @@ System and software requirements:
 - **Python 3.x**    *(Any Python version compatible with PyTorch，Tested with Python 3.12.)*
 - **biopython**
 - **numpy**
-- **torch**    *(If you want to enable GPU acceleration, please install the appropriate GPU-enabled PyTorch version from the official PyTorch website.)*
+- **pytorch**    *(If you want to enable GPU acceleration, please install the appropriate GPU-enabled PyTorch version from the official PyTorch website.)*
 
 ## Installation
 **1.** You only need to download **`iProphIT-classifier.py`** and **`iProphIT_model-v1.pth`** into your working directory.  
@@ -17,7 +17,7 @@ System and software requirements:
 conda create -n iprophit python
 conda activate iprophit
 conda install -c conda-forge biopython numpy
-conda install torch
+conda install pytorch
 ```
 
 ## Run iProphIT
