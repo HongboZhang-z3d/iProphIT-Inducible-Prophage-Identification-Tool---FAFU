@@ -57,7 +57,8 @@ options:
 2.**`Predict`** is the result of identification (**`active`**->inducible prophage, **`dormant`**->non-inducible prophage).
 
 ## Using testing data
-genome file: **`OY731326.1`** and **`OY731419.1`**, source: Dahlman S. et al., Nature (2025), https://doi.org/10.1038/s41586-025-09614-7  
+genome file: **`OY731326.1`** and **`OY731419.1`**,   
+source: Dahlman S. et al., Nature (2025), https://doi.org/10.1038/s41586-025-09614-7  
   
 - Run **`iProphIT-classifier.py`**
 
