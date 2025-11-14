@@ -14,7 +14,7 @@ System and software requirements:
 **1.** You only need to download **`iProphIT-classifier.py`** and **`iProphIT_model-v1.pth`** into your working directory.  
 **2.** Create a conda environment and install required packages:
 ```bash
-conda create -n iprophit python
+conda create -n iprophit python=3.12
 conda activate iprophit
 conda install -c conda-forge biopython numpy
 conda install pytorch
