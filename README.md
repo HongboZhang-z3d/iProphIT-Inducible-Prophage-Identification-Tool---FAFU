@@ -1,4 +1,4 @@
-# iProphIT
+# iProphIT (Inducible Prophage Identification Tool)
 A deep learning approach that identifies the inducible activity of prophages from their DNA sequences.
 ## Requirements
 
