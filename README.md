@@ -77,4 +77,4 @@ OY731419.1	active
 - No need to worry about enabling GPU mode. iProphIT will automatically use the GPU if available, as long as you have installed a `PyTorch` version with CUDA support.
 
 ## Copyright
-Hongbo Zhang, Liu Chen, Hanpeng Liao, Fujian Provincial Key Laboratory of Soil Environmental Health and Regulation, College of Resources and Environment, Fujian Agriculture and Forestry University, Fuzhou, 350002, China.
+Hongbo Zhang, Chen Liu, Hanpeng Liao, Fujian Provincial Key Laboratory of Soil Environmental Health and Regulation, College of Resources and Environment, Fujian Agriculture and Forestry University, Fuzhou, 350002, China.
