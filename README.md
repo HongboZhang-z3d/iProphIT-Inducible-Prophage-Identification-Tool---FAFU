@@ -80,7 +80,6 @@ OY731419.1	active
 
 ## Notes
 - Input can accept genome files in formats such as `.fasta`, `.fa`, `.fna`, etc.
-- No need to worry about enabling GPU mode. iProphIT will automatically use the GPU if available, as long as you have installed a `PyTorch` version with CUDA support.
-
+- iProphIT will automatically use the GPU if available, as long as you have installed a `PyTorch` version with CUDA support. 
 ## Copyright
 Hongbo Zhang, Chen Liu, Hanpeng Liao, Fujian Provincial Key Laboratory of Soil Environmental Health and Regulation, College of Resources and Environment, Fujian Agriculture and Forestry University, Fuzhou, 350002, China.
