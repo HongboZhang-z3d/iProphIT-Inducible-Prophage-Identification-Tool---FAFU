@@ -12,7 +12,10 @@ System and software requirements:
 
 ## Installation
 **1.** You only need to download **`iProphIT-classifier.py`** and **`iProphIT_model-v1.pth`** into your working directory.  
+(iProphIT_model-v1.pth website: (https://doi.org/10.5281/zenodo.17605580)   
+
 **2.** Create a conda environment and install required packages:
+
 ```bash
 conda create -n iprophit python=3.12
 conda activate iprophit
@@ -21,8 +24,10 @@ conda install pytorch
 ```
 
 ## Run iProphIT
-**1.** Download **`iProphIT-classifier.py`**， **`iProphIT_model-v1.pth`** and put them in your working path.  
+**1.** Download **`iProphIT-classifier.py`**， **`iProphIT_model-v1.pth`** and put them in your working path.   
+
 **2.** Run **`iProphIT-classifier.py`**
+
 ```bash
 python iProphIT-classifier.py -i test_iProphIT.fasta -m iProphIT_model-v1.pth -o ./Result.tsv -t 16
 ```
