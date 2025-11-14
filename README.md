@@ -53,7 +53,7 @@ options:
   | prophage2  | dormant   |
 
 - Explanation  
-1.**`ID`** is the content of the description line in the genome file. 
+1.**`ID`** is the content of the description line in the genome file.   
 2.**`Predict`** is the result of identification (**`active`**->inducible prophage, **`dormant`**->non-inducible prophage).
 
 ## Using testing data
